@@ -13,7 +13,8 @@ redirect_from:
 博士生导师，南方科技大学  
 入选广东省青年人才工程计划
 
-**Xiaojun Liang, Associate Researcher**
+**Xiaojun Liang, Associate Researcher**  
+
 Ph.D. Supervisor, Southern University of Science and Technology  
 Selected for the Guangdong Provincial Young Talent Program  
 
@@ -95,11 +96,13 @@ Mechanical modeling and computation, Intelligent systems and smart manufacturing
 We are hiring postdoctoral researchers and welcoming joint Ph.D. students from universities such as Tsinghua University, Harbin Institute of Technology, and Southern University of Science and Technology.
 
 **研究方向 | Research Areas：**
+
 人工智能应用，智能控制与智能系统，工业监测技术，数字孪生仿真建模，工业互联网边缘计算  
 
 AI applications, intelligent control systems, industrial monitoring, digital twin modeling, and edge computing for the industrial Internet
 
 **要求 | Requirements：**
+
 扎实的计算机科学 / 数学 / 物理基础；优异的编程能力；专注、善于沟通和学习，目标导向；对面向国家战略应用的科研工作充满兴趣  
 
 Strong background in CS, math, or physics; excellent programming skills; focus, communication, and learning ability; and strong interest in application-oriented research aligned with national strategies.
