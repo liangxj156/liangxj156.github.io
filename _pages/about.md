@@ -84,9 +84,9 @@ Mechanical modeling and computation, Intelligent systems and smart manufacturing
   2023.07 – 2025.06，课题负责人  
   PI, Peng Cheng Lab Major Project on Open-Source Cloud Computing  
 
-- 鹏城实验室视觉智能重大攻关项目  
-  2023.07 – 2025.06，课题骨干  
-  Core Member, Peng Cheng Lab Major Project on Visual Intelligence  
+- 广东省重点研发旗舰项目课题  
+  2025.01 – 2028.01，负责人  
+  PI, Guangdong Flagship Key R&D Project  
 
 ---
 
