@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Xiaojun Liang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "liangxj156/liangxj156.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "梁骁俊 Xiaojun Liang"
+  name             : "梁骁俊 | Xiaojun Liang"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : #"Earth"
