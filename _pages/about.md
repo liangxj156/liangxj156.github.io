@@ -7,6 +7,18 @@ redirect_from:
   - /about.html
 ---
 
+## 基本信息 | Basic Information
+
+**梁骁俊 副研究员**  
+博士生导师，南方科技大学  
+入选广东省青年人才工程计划
+
+**Xiaojun Liang, Associate Researcher**
+Ph.D. Supervisor, Southern University of Science and Technology  
+Selected for the Guangdong Provincial Young Talent Program  
+
+---
+
 ## 简介 | Introduction
 
 梁骁俊，鹏城实验室智能系统与应用创新研究所副所长，副研究员，博士生导师，研究方向为知识自动化与工业智能系统。2012年获清华大学学士，2017年获美国宾夕法尼亚大学博士，入选广东省引进青年拔尖人才，发表SCI论文30余篇，主持鹏城实验室重大任务课题2项、国家自然科学基金项目1项、广东省重点研发旗舰项目课题1项，担任中国自动化学会系统仿真专业委员会副主任、深圳市计算机学会大模型专委会执行委员。
@@ -15,22 +27,12 @@ Dr. Xiaojun Liang is the Associate Director and Associate Researcher at the Inst
 
 ---
 
-## 基本信息 | Basic Information
-
-**梁骁俊 副研究员**  
-博士生导师，南方科技大学  
-入选广东省青年人才工程计划  
-**邮箱 | Email:** liangxj@pcl.ac.cn
-
----
 
 ## 研究领域 | Research Interests
 
-- 力学建模与计算  
-- 智能系统与智能制造应用  
+力学建模与计算，智能系统与智能制造应用  
 
-- Mechanical modeling and computation  
-- Intelligent systems and smart manufacturing applications  
+Mechanical modeling and computation, Intelligent systems and smart manufacturing applications  
 
 ---
 
@@ -41,7 +43,7 @@ Dr. Xiaojun Liang is the Associate Director and Associate Researcher at the Inst
   Ph.D., Mechanical Engineering and Applied Mechanics, University of Pennsylvania, USA  
 
 - 2008.9 – 2012.6  
-  中国清华大学，工程力学与航空航天学士  
+  清华大学，工程力学与航空航天学士  
   B.E., Engineering Mechanics and Aerospace, Tsinghua University, China  
 
 ---
@@ -49,15 +51,15 @@ Dr. Xiaojun Liang is the Associate Director and Associate Researcher at the Inst
 ## 工作经历 | Work Experience
 
 - 2023.1 – 至今  
-  中国鹏城实验室，工业智能基础研究室，副研究员  
-  Associate Researcher, Department of Industrial Intelligence, Peng Cheng Laboratory, China  
+  鹏城实验室，工业智能基础研究室，副研究员  
+  Associate Researcher, Industrial Intelligence Research Group, Peng Cheng Laboratory, China  
 
 - 2021.3 – 2022.12  
-  中国鹏城实验室，工业智能基础研究室，助理研究员  
-  Assistant Researcher, Department of Industrial Intelligence, Peng Cheng Laboratory, China  
+  鹏城实验室，工业智能基础研究室，助理研究员  
+  Assistant Researcher, Industrial Intelligence Research Group, Peng Cheng Laboratory, China  
 
 - 2017.7 – 2021.2  
-  中国京东集团智能机器人事业部，高级工程师  
+  京东集团智能机器人事业部，高级工程师  
   Senior Engineer, Intelligent Robotics Division, JD Group, China  
 
 - 2012.9 – 2017.5  
@@ -93,19 +95,12 @@ Dr. Xiaojun Liang is the Associate Director and Associate Researcher at the Inst
 We are hiring postdoctoral researchers and welcoming joint Ph.D. students from universities such as Tsinghua University, Harbin Institute of Technology, and Southern University of Science and Technology.
 
 **研究方向 | Research Areas：**
-- 人工智能应用  
-- 智能控制与智能系统  
-- 工业监测技术  
-- 数字孪生仿真建模  
-- 工业互联网边缘计算  
+人工智能应用，智能控制与智能系统，工业监测技术，数字孪生仿真建模，工业互联网边缘计算  
 
-AI applications, intelligent control systems, industrial monitoring, digital twin modeling, and edge computing for the industrial Internet.
+AI applications, intelligent control systems, industrial monitoring, digital twin modeling, and edge computing for the industrial Internet
 
 **要求 | Requirements：**
-- 扎实的计算机科学 / 数学 / 物理基础  
-- 优异的编程能力  
-- 专注、善于沟通和学习，目标导向  
-- 对面向国家战略应用的科研工作充满兴趣  
+扎实的计算机科学 / 数学 / 物理基础；优异的编程能力；专注、善于沟通和学习，目标导向；对面向国家战略应用的科研工作充满兴趣  
 
 Strong background in CS, math, or physics; excellent programming skills; focus, communication, and learning ability; and strong interest in application-oriented research aligned with national strategies.
 
