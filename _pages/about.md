@@ -13,7 +13,7 @@ redirect_from:
 博士生导师，南方科技大学  
 入选广东省青年人才工程计划
 
-**Xiaojun Liang, Associate Researcher**  
+**Xiaojun Liang, Associate Research Fellow**  
 
 Ph.D. Supervisor, Southern University of Science and Technology  
 Selected for the Guangdong Provincial Young Talent Program  
